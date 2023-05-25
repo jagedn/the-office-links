@@ -1,7 +1,5 @@
 # the-office-links
 
-## exactly
-
 
 ## it works!!
 
